@@ -16,7 +16,7 @@ monitoring:
     containerRegex: ""       # Optional regex to filter container names
 ```
 
-Sample helm charts can be found under https://github.com/UmakantKulkarni/opensource-5g-core
+Sample helm charts can be found under [opensource-5g-core](https://github.com/UmakantKulkarni/opensource-5g-core/blob/ztx_demo_aug/helm-chart/templates/logforwarder.yaml)
 
 ## Go Agent
 
